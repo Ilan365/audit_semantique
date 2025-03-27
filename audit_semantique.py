@@ -474,7 +474,7 @@ def main():
     st.title("Audit Sémantique SEO")
     
     # Style CSS pour le bouton de téléchargement
-    st.markdown("""""
+    st.markdown("""
     <style>
     .download-button {
         display: inline-block;
